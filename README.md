@@ -56,7 +56,7 @@ gcc mazeSolver-V3-windows.c -o solver.exe
 solver.exe
 ```
 
-## How It Works
+## Usage
 
 When you run it, the program shows you a grid with numbers (flood-fill values) and asks for sensor inputs:
 
